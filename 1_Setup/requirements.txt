@@ -1,0 +1,34 @@
+#pip3 install -r requirements.txt
+dhanhq
+typing
+typing-extensions
+logging
+pdbpp
+Twisted
+pyOpenSSL
+autobahn
+pandas
+smartapi-python
+websocket-client
+xlwings
+-Iv xlwings
+mibian
+numpy
+xlrd
+plyer
+dateparser
+halo
+ta
+pandas-ta
+nsepy
+scipy
+selenium
+tapy
+dataclasses
+openpyxl
+urllib3
+requests
+auto-py-to-exe
+chromedriver-autoinstaller
+"%~dp0Twisted-20.3.0-cp38-cp38-win_amd64.whl"
+"%~dp0TA_Lib-0.4.24-cp38-cp38-win_amd64.whl"
